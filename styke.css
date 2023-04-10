@@ -1,0 +1,11 @@
+.box {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+button {
+    width: 150px;
+    height: 70px;
+    margin: 100px 300px;
+}
